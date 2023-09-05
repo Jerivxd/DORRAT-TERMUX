@@ -10,10 +10,10 @@ import {en, es, pt} from "./lib/idiomas/total-idiomas.js";
 
 //cambia los números que sean propietarios
 global.owner = [
-  ["593959425714", "🔰 𝐃𝐈𝐄𝐆𝐎 - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰", true],
-  ["51993138466", "🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰", true],
-  ["573184314110", "🔰 𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 3 🔰", true],
-  ["50246028932", "🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 4 🔰", true],
+  ["51931543536", "🔰 𝐉𝐄𝐑𝐑𝐘 - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰", true],
+  ["51931543536", "🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰", true],
+  ["51931543536", "🔰 𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 3 🔰", true],
+  ["51931543536", "🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 4 🔰", true],
   ["584125778026"],
   ["595986674310"],
   ["51936767238"],
@@ -89,7 +89,7 @@ global.openai_org_id = "org-3";
 global.lenguajeGB = es;
 
 /* ______________________________________________ */
-global.creadorname = "𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂";
+global.creadorname = "𝐉𝐄𝐑𝐑𝐘-𝐎𝐅𝐂";
 global.creatorname = creadorname;
 global.library = "BAILEYS-MD";
 global.vs = "V10";
@@ -104,17 +104,17 @@ global.mes = d.toLocaleDateString("es", {month: "long"});
 global.año = d.toLocaleDateString("es", {year: "numeric"});
 global.tiempo = d.toLocaleString("en-US", {hour: "numeric", minute: "numeric", second: "numeric", hour12: true});
 //------------- Sticker WM -----------
-global.packname = `𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂`;
+global.packname = `𝐉𝐄𝐑𝐑𝐘-𝐎𝐅𝐂`;
 global.author = `©⏤͟͟͞𝐓𝐇𝐄 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃`;
 //_______________
-global.wm = "𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓 | 𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂";
+global.wm = "𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓 | 𝐉𝐄𝐑𝐑𝐘-𝐎𝐅𝐂";
 global.db3t = `©⏤͟͟͞𝐓𝐇𝐄 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃`;
 global.wm3 = db3t;
-global.codex = `Diego-Ofc`;
+global.codex = `Jerry-Ofc`;
 global.igfg = "𝑫𝑶𝑹𝑹𝑨𝑻-𝑩𝑶𝑻";
 global.wait = "*[❕] CARGANDO POR FAVOR ESPERA...*";
 //-------------------
-global.md = "https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg";
+global.md = "https://chat.whatsapp.com/Kgt3cp34C5r6dEUkvesUOz";
 global.dorramd = md;
 global.tarje = "Banesco";
 global.yt = "http://youtube.com/@diegogameplays82";
